@@ -7,8 +7,7 @@ def check_palindrome(stroka):
         print('True')
     else:
         print('False')
-
-    
+       
 check_palindrome(vvod)
 
 
